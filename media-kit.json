@@ -1,0 +1,22 @@
+﻿{
+  "artist": "xayzify!",
+  "tagline": "электронный исполнитель / live-ready",
+  "genres": ["electronic", "experimental"],
+  "formats": ["live", "dj-set", "collaboration"],
+  "bpm_range": "120-150",
+  "links": {
+    "zvuk": "https://zvuk.com/artist/212996283",
+    "yandex": "https://music.yandex.ru/artist/22749965",
+    "apple": "https://music.apple.com/ru/artist/xayzify/1760989374",
+    "vk": "https://vk.com/artist/xayzify_",
+    "101beat": "https://101beat.com/ru/profile/36566"
+  },
+  "contacts": {
+    "booking": "booking@xayzify.com",
+    "press": "press@xayzify.com"
+  },
+  "assets": {
+    "avatar": "Avatar.jpg",
+    "photos": ["BestHatGentelman.jpg", "BlueAesteticPhoto.jpg", "MegaCoolPhoto.jpg"]
+  }
+}
